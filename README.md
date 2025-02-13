@@ -1,1 +1,28 @@
-# Padel-Match
+# 🎾 Padel Match
+
+Padel Match est une plateforme de réservation de tournois de padel, conçue pour simplifier l’organisation des événements sportifs pour les clubs associatifs. L’application permet aux joueurs de **s’inscrire et payer en ligne**, évitant ainsi les échanges compliqués via WhatsApp, appels et SMS.
+
+## Fonctionnalités principales
+✅ Inscription et connexion des joueurs (avec authentification sécurisée).  
+✅ Réservation et gestion des tournois en ligne.  
+✅ Paiement intégré pour simplifier l'organisation.  
+✅ Tableau de bord pour suivre les matchs et résultats.  
+
+## 🏗️ Stack technique
+- **Frontend :** React.js, Next.js, Tailwind CSS
+- **Backend :** Node.js, Express, MongoDB
+- **Authentification :** JWT + bcrypt
+- **Déploiement :** Vercel (Frontend) & Render (Backend)
+
+## 🔗 Liens du projet
+- **Frontend :** [Padel Match Frontend](https://github.com/Picci-s/Padel-Match-Frontend)
+- **Backend :** [Padel Match Backend](https://github.com/Picci-s/Padel-Match-Backend)
+- **Démo :** (https://drive.google.com/file/d/16ZY4qni8zqjrZv6LZSxanW69vtpLyil1/view?usp=drive_link)*  
+- **Présentation vidéo :** *(À venir)*  
+
+---
+
+### 📩 **Contact**
+💬 **Julien Piccirillo** – Développeur Web Fullstack  
+📧 [julienpi77@gmail.com](mailto:julienpi77@gmail.com)  
+🌍 [Mon Portfolio](https://tonportfolio.com)

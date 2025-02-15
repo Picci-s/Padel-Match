@@ -2,6 +2,8 @@
 
 Padel Match est une plateforme de réservation de tournois de padel, conçue pour simplifier l’organisation des événements sportifs pour les clubs associatifs. L’application permet aux joueurs de **s’inscrire et payer en ligne**, évitant ainsi les échanges compliqués via WhatsApp, appels et SMS.
 
+Projet réalisé en fin de batch avec 3 autres camarades.
+
 ## Fonctionnalités principales
 ✅ Inscription et connexion des joueurs (avec authentification sécurisée).  
 ✅ Réservation et gestion des tournois en ligne.  
@@ -18,7 +20,7 @@ Padel Match est une plateforme de réservation de tournois de padel, conçue pou
 - **Frontend :** [Padel Match Frontend](https://github.com/Picci-s/Padel-Match-Frontend)
 - **Backend :** [Padel Match Backend](https://github.com/Picci-s/Padel-Match-Backend)
 - **Démo :** (https://drive.google.com/file/d/16ZY4qni8zqjrZv6LZSxanW69vtpLyil1/view?usp=drive_link)*  
-- **Présentation vidéo :** *(À venir)*  
+ 
 
 ---
 

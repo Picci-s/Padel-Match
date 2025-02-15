@@ -14,17 +14,18 @@ Projet réalisé en fin de batch avec 3 autres camarades.
 - **Frontend :** React.js, Next.js, Tailwind CSS
 - **Backend :** Node.js, Express, MongoDB
 - **Authentification :** JWT + bcrypt
-- **Déploiement :** Vercel (Frontend) & Render (Backend)
 
-## 🔗 Liens du projet
-- **Frontend :** [Padel Match Frontend](https://github.com/Picci-s/Padel-Match-Frontend)
-- **Backend :** [Padel Match Backend](https://github.com/Picci-s/Padel-Match-Backend)
-- **Démo :** (https://drive.google.com/file/d/16ZY4qni8zqjrZv6LZSxanW69vtpLyil1/view?usp=drive_link)*  
- 
+## 🔗 Démo du projet
+🎥 **Vidéo de démonstration** → [Voir la démo](https://drive.google.com/file/d/16ZY4qni8zqjrZv6LZSxanW69vtpLyil1/view?usp=drive_link)
+
+ℹ️ **Le code source de Padel Match est privé.** Si vous souhaitez en savoir plus, n'hésitez pas à me contacter.
 
 ---
 
-### 📩 **Contact**
+## 📩 **Contact**
 💬 **Julien Piccirillo** – Développeur Web Fullstack  
 📧 [julienpi77@gmail.com](mailto:julienpi77@gmail.com)  
 🌍 [Mon Portfolio](https://tonportfolio.com)
+
+## ⚠️ **Licence et Droits**
+🚫 **Ce projet est protégé et non open-source.** Toute reproduction ou utilisation sans autorisation est interdite.
